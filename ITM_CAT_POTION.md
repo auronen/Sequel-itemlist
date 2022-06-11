@@ -2,16 +2,16 @@
 |-|-|
 Insert code|**ITPO_ELEXIROFMIND**
 Name|ELIXÍR DUCHA
-Toto je elixír, který potřebuje Xardas.|0
-Nevím, jak přesně funguje, ale|0
-v každém případě bych ho NEMĚL pít|0
-předtím, než si o něm promluvím s Xardasem!|0
+Toto je elixír, který potřebuje Xardas.|
+Nevím, jak přesně funguje, ale|
+v každém případě bych ho NEMĚL pít|
+předtím, než si o něm promluvím s Xardasem!|
 
 |image| ![ITFO_POTION_HASTE_03](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITFO_POTION_HASTE_03.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_POTION_HASTE_03**
 Name|Elixír spěchu
-Umožní hráči déle rychleji běžet.|0
+Umožní hráči déle rychleji běžet.|
 Trvání (minuty)|5
 Cena:|125
 
@@ -19,7 +19,7 @@ Cena:|125
 |-|-|
 Insert code|**ITFO_POTION_HASTE_02**
 Name|Extrakt spěchu
-Umožní hráči zrychlit běh.|0
+Umožní hráči zrychlit běh.|
 Trvání (minuty)|2
 Cena:|50
 
@@ -27,7 +27,7 @@ Cena:|50
 |-|-|
 Insert code|**ITFO_POTION_HASTE_01**
 Name|Esence spěchu
-Umožní hráči krátce zrychlit běh.|0
+Umožní hráči krátce zrychlit běh.|
 Trvání (minuty)|1
 Cena:|25
 
@@ -135,7 +135,7 @@ Cena:|300
 |-|-|
 Insert code|**ITFO_POTION_HEALTH_03**
 Name|Lektvar úplného uzdravení
-Zcela doplní zdraví|0
+Zcela doplní zdraví|
 Cena:|125
 
 |image| ![ITFO_POTION_HEALTH_02](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITFO_POTION_HEALTH_02.png?raw=true) | 
@@ -156,7 +156,7 @@ Cena:|25
 |-|-|
 Insert code|**ITFO_POTION_MANA_03**
 Name|Lektvar obnovy magické energie
-Zregeneruje všechnu manu|0
+Zregeneruje všechnu manu|
 Cena:|125
 
 |image| ![ITFO_POTION_MANA_02](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITFO_POTION_MANA_02.png?raw=true) | 

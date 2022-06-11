@@ -2,8 +2,8 @@
 |-|-|
 Insert code|**ITPL_TROLLBERRY**
 Name|Trollí bobule
-Tyto bobule jsou pro lidi|0
-nesmírně jedovaté!|0
+Tyto bobule jsou pro lidi|
+nesmírně jedovaté!|
 Cena:|10
 
 |image| ![ITPL_FLAMEBERRY](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITPL_FLAMEBERRY.png?raw=true) | 
@@ -66,9 +66,9 @@ Cena:|2
 |-|-|
 Insert code|**ITPL_STONEROOT**
 Name|Kamenný kořen
-Tyto rostliny působí jako|0
-silný uspávací prostředek!|0
-Bonus zdraví:|0
+Tyto rostliny působí jako|
+silný uspávací prostředek!|
+Bonus zdraví:|
 Cena:|2
 
 |image| ![ITPL_MOUNTAINMOSS](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITPL_MOUNTAINMOSS.png?raw=true) | 
@@ -192,21 +192,21 @@ Cena:|10
 |-|-|
 Insert code|**ITFO_BOOZE**
 Name|Rýžová pálenka
-Bonus zdraví:|0
+Bonus zdraví:|
 Cena:|7
 
 |image| ![ITFO_WINE](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITFO_WINE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE**
 Name|Víno
-Bonus zdraví:|0
+Bonus zdraví:|
 Cena:|8
 
 |image| ![ITFO_BEER](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITFO_BEER.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEER**
 Name|Pivo
-Bonus zdraví:|0
+Bonus zdraví:|
 Cena:|5
 
 |image| ![ITFO_CHEESE](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITFO_CHEESE.png?raw=true) | 

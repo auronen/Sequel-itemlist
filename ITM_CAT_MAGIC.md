@@ -175,10 +175,10 @@ Cena:|200
 |-|-|
 Insert code|**BESCHWöRUNGSAMULETT**
 Name|Amulet vyvolání démona
-Černý jako duše,|0
-černý jako noc|0
-černý jako zloba,|0
-černá slibuje moc.|0
+Černý jako duše,|
+černý jako noc|
+černý jako zloba,|
+černá slibuje moc.|
 Cena:|300
 
 |image| ![AMULETT_DER_ERLEUCHTUNG](https://github.com/auronen/Sequel-itemlist/blob/master/img/AMULETT_DER_ERLEUCHTUNG.png?raw=true) | 
@@ -297,7 +297,7 @@ Cena:|600
 |-|-|
 Insert code|**ITMI_AMULET_PSI**
 Name|Znak Bratrstva
-Tento starý amulet byl znakem Bratrstva|0
-z dob, kdy údolí uzavírala Bariéra.|0
+Tento starý amulet byl znakem Bratrstva|
+z dob, kdy údolí uzavírala Bariéra.|
 Cena:|250
 

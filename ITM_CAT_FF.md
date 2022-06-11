@@ -2,7 +2,7 @@
 |-|-|
 Insert code|**ITRW_WARCROSSBOW**
 Name|Válečná kuš
-Typ: Kuš|0
+Typ: Kuš|
 Poškození|70
 Požadovaná obratnost:|70
 Cena:|2000
@@ -11,7 +11,7 @@ Cena:|2000
 |-|-|
 Insert code|**ITRW_HEAVYCROSSBOW**
 Name|Těžká kuš
-Typ: Kuš|0
+Typ: Kuš|
 Poškození|60
 Požadovaná obratnost:|60
 Cena:|1500
@@ -20,7 +20,7 @@ Cena:|1500
 |-|-|
 Insert code|**ITRW_CROSSBOW**
 Name|Kuš
-Typ: Kuš|0
+Typ: Kuš|
 Poškození|50
 Požadovaná obratnost:|50
 Cena:|1000
@@ -29,7 +29,7 @@ Cena:|1000
 |-|-|
 Insert code|**ITRW_LIGHTCROSSBOW**
 Name|Lehká kuš
-Typ: Kuš|0
+Typ: Kuš|
 Poškození|40
 Požadovaná obratnost:|40
 Cena:|750
@@ -38,7 +38,7 @@ Cena:|750
 |-|-|
 Insert code|**ITRW_STORMBOW**
 Name|Útočný luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|60
 Požadovaná obratnost:|100
 Cena:|1500
@@ -47,7 +47,7 @@ Cena:|1500
 |-|-|
 Insert code|**ITRW_WARBOW**
 Name|Válečný luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|50
 Požadovaná obratnost:|80
 Cena:|1000
@@ -56,7 +56,7 @@ Cena:|1000
 |-|-|
 Insert code|**ITRW_ARMYBOW**
 Name|Armádní luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|45
 Požadovaná obratnost:|60
 Cena:|750
@@ -65,7 +65,7 @@ Cena:|750
 |-|-|
 Insert code|**ITRW_YEWBOW**
 Name|Tisový luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|40
 Požadovaná obratnost:|50
 Cena:|500
@@ -74,7 +74,7 @@ Cena:|500
 |-|-|
 Insert code|**ITRW_HEDGEBOW**
 Name|Dřevěný luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|35
 Požadovaná obratnost:|45
 Cena:|400
@@ -83,7 +83,7 @@ Cena:|400
 |-|-|
 Insert code|**ITRW_LONGBOW**
 Name|Dlouhý luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|30
 Požadovaná obratnost:|40
 Cena:|300
@@ -92,7 +92,7 @@ Cena:|300
 |-|-|
 Insert code|**ITRW_HUNTINGBOW**
 Name|Lovecký luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|25
 Požadovaná obratnost:|35
 Cena:|250
@@ -101,7 +101,7 @@ Cena:|250
 |-|-|
 Insert code|**ITRW_FIELDBOW**
 Name|Polní luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|20
 Požadovaná obratnost:|30
 Cena:|200
@@ -110,7 +110,7 @@ Cena:|200
 |-|-|
 Insert code|**ITRW_RIDERBOW**
 Name|Jezdecký luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|15
 Požadovaná obratnost:|25
 Cena:|150
@@ -119,7 +119,7 @@ Cena:|150
 |-|-|
 Insert code|**ITRW_SHORTBOW**
 Name|Krátký luk
-Typ: Luk|0
+Typ: Luk|
 Poškození|10
 Požadovaná obratnost:|20
 Cena:|100

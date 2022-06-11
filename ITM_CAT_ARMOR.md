@@ -2,10 +2,10 @@
 |-|-|
 Insert code|**HELMET**
 Name|Testovací helma
-Ochrana proti zbraním:|0
-Ochrana proti šípům:|0
-Ochrana proti ohni:|0
-Ochrana proti magii:|0
+Ochrana proti zbraním:|
+Ochrana proti šípům:|
+Ochrana proti ohni:|
+Ochrana proti magii:|
 Cena:|100
 
 |image| ![GRD_ARMOR_I](https://github.com/auronen/Sequel-itemlist/blob/master/img/GRD_ARMOR_I.png?raw=true) | 
@@ -25,14 +25,14 @@ Name|Roucho soudce
 Ochrana proti zbraním:|20
 Ochrana proti šípům:|2
 Ochrana proti ohni:|10
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|600
 
 |image| ![ORE_ARMOR_H](https://github.com/auronen/Sequel-itemlist/blob/master/img/ORE_ARMOR_H.png?raw=true) | 
 |-|-|
 Insert code|**ORE_ARMOR_H**
 Name|Vylepšená rudná zbroj
-Kovář Stone dokázal vylepšit toto starobylé brnění!|0
+Kovář Stone dokázal vylepšit toto starobylé brnění!|
 Ochrana proti zbraním:|100
 Ochrana proti šípům:|30
 Ochrana proti ohni:|45
@@ -43,7 +43,7 @@ Cena:|6000
 |-|-|
 Insert code|**ORE_ARMOR_M**
 Name|Starobylá rudná zbroj
-Tato starobylá zbroj byla celá vyrobena z magické rudy.|0
+Tato starobylá zbroj byla celá vyrobena z magické rudy.|
 Ochrana proti zbraním:|95
 Ochrana proti šípům:|25
 Ochrana proti ohni:|40
@@ -137,7 +137,7 @@ Name|Těžká zbroj templáře
 Ochrana proti zbraním:|70
 Ochrana proti šípům:|10
 Ochrana proti ohni:|35
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|2100
 
 |image| ![TPL_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/TPL_ARMOR_M.png?raw=true) | 
@@ -147,7 +147,7 @@ Name|Zbroj templáře
 Ochrana proti zbraním:|55
 Ochrana proti šípům:|10
 Ochrana proti ohni:|25
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1650
 
 |image| ![TPL_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/TPL_ARMOR_L.png?raw=true) | 
@@ -157,7 +157,7 @@ Name|Lehká zbroj templáře
 Ochrana proti zbraním:|45
 Ochrana proti šípům:|5
 Ochrana proti ohni:|20
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1350
 
 |image| ![NOV_ARMOR_H](https://github.com/auronen/Sequel-itemlist/blob/master/img/NOV_ARMOR_H.png?raw=true) | 
@@ -167,7 +167,7 @@ Name|Zbroj novice
 Ochrana proti zbraním:|40
 Ochrana proti šípům:|5
 Ochrana proti ohni:|20
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1200
 
 |image| ![NOV_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/NOV_ARMOR_M.png?raw=true) | 
@@ -175,9 +175,9 @@ Cena:|1200
 Insert code|**NOV_ARMOR_M**
 Name|Lehká zbroj novice
 Ochrana proti zbraním:|30
-Ochrana proti šípům:|0
+Ochrana proti šípům:|
 Ochrana proti ohni:|15
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|750
 
 |image| ![NOV_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/NOV_ARMOR_L.png?raw=true) | 
@@ -185,9 +185,9 @@ Cena:|750
 Insert code|**NOV_ARMOR_L**
 Name|Bederní rouška novice
 Ochrana proti zbraním:|15
-Ochrana proti šípům:|0
+Ochrana proti šípům:|
 Ochrana proti ohni:|10
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|500
 
 |image| ![SLD_ARMOR_H](https://github.com/auronen/Sequel-itemlist/blob/master/img/SLD_ARMOR_H.png?raw=true) | 
@@ -197,7 +197,7 @@ Name|Těžká zbroj žoldáka
 Ochrana proti zbraním:|70
 Ochrana proti šípům:|10
 Ochrana proti ohni:|35
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|2100
 
 |image| ![SLD_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/SLD_ARMOR_M.png?raw=true) | 
@@ -207,7 +207,7 @@ Name|Zbroj žoldáka
 Ochrana proti zbraním:|55
 Ochrana proti šípům:|10
 Ochrana proti ohni:|25
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1650
 
 |image| ![SLD_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/SLD_ARMOR_L.png?raw=true) | 
@@ -217,7 +217,7 @@ Name|Lehká zbroj žoldáka
 Ochrana proti zbraním:|45
 Ochrana proti šípům:|5
 Ochrana proti ohni:|20
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1350
 
 |image| ![ORG_ARMOR_H](https://github.com/auronen/Sequel-itemlist/blob/master/img/ORG_ARMOR_H.png?raw=true) | 
@@ -227,7 +227,7 @@ Name|Těžký oblek tuláka
 Ochrana proti zbraním:|40
 Ochrana proti šípům:|5
 Ochrana proti ohni:|20
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1200
 
 |image| ![ORG_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/ORG_ARMOR_M.png?raw=true) | 
@@ -237,7 +237,7 @@ Name|Oděv tuláka
 Ochrana proti zbraním:|35
 Ochrana proti šípům:|5
 Ochrana proti ohni:|15
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1050
 
 |image| ![ORG_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/ORG_ARMOR_L.png?raw=true) | 
@@ -247,7 +247,7 @@ Name|Lehký oděv bandity
 Ochrana proti zbraním:|30
 Ochrana proti šípům:|5
 Ochrana proti ohni:|15
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|750
 
 |image| ![SFB_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/SFB_ARMOR_L.png?raw=true) | 
@@ -255,9 +255,9 @@ Cena:|750
 Insert code|**SFB_ARMOR_L**
 Name|Těžařské oblečení
 Ochrana proti zbraním:|10
-Ochrana proti šípům:|0
-Ochrana proti ohni:|0
-Ochrana proti magii:|0
+Ochrana proti šípům:|
+Ochrana proti ohni:|
+Ochrana proti magii:|
 Cena:|500
 
 |image| ![EBR_ARMOR_H2](https://github.com/auronen/Sequel-itemlist/blob/master/img/EBR_ARMOR_H2.png?raw=true) | 
@@ -297,7 +297,7 @@ Name|Těžká zbroj strážce
 Ochrana proti zbraním:|70
 Ochrana proti šípům:|10
 Ochrana proti ohni:|35
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|2100
 
 |image| ![GRD_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/GRD_ARMOR_M.png?raw=true) | 
@@ -307,7 +307,7 @@ Name|Zbroj strážce
 Ochrana proti zbraním:|55
 Ochrana proti šípům:|10
 Ochrana proti ohni:|25
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1650
 
 |image| ![GRD_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/GRD_ARMOR_L.png?raw=true) | 
@@ -317,7 +317,7 @@ Name|Lehká zbroj strážce
 Ochrana proti zbraním:|45
 Ochrana proti šípům:|5
 Ochrana proti ohni:|20
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1350
 
 |image| ![STT_ARMOR_H](https://github.com/auronen/Sequel-itemlist/blob/master/img/STT_ARMOR_H.png?raw=true) | 
@@ -327,7 +327,7 @@ Name|Zbroj Stínů
 Ochrana proti zbraním:|40
 Ochrana proti šípům:|5
 Ochrana proti ohni:|20
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|1200
 
 |image| ![STT_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/STT_ARMOR_M.png?raw=true) | 
@@ -337,7 +337,7 @@ Name|Oděv Stínů
 Ochrana proti zbraním:|30
 Ochrana proti šípům:|5
 Ochrana proti ohni:|15
-Ochrana proti magii:|0
+Ochrana proti magii:|
 Cena:|750
 
 |image| ![VLK_ARMOR_M](https://github.com/auronen/Sequel-itemlist/blob/master/img/VLK_ARMOR_M.png?raw=true) | 
@@ -345,9 +345,9 @@ Cena:|750
 Insert code|**VLK_ARMOR_M**
 Name|Kalhoty kopáče
 Ochrana proti zbraním:|15
-Ochrana proti šípům:|0
-Ochrana proti ohni:|0
-Ochrana proti magii:|0
+Ochrana proti šípům:|
+Ochrana proti ohni:|
+Ochrana proti magii:|
 Cena:|750
 
 |image| ![VLK_ARMOR_L](https://github.com/auronen/Sequel-itemlist/blob/master/img/VLK_ARMOR_L.png?raw=true) | 
@@ -355,9 +355,9 @@ Cena:|750
 Insert code|**VLK_ARMOR_L**
 Name|Lehké kalhoty kopáče
 Ochrana proti zbraním:|5
-Ochrana proti šípům:|0
-Ochrana proti ohni:|0
-Ochrana proti magii:|0
+Ochrana proti šípům:|
+Ochrana proti ohni:|
+Ochrana proti magii:|
 Cena:|100
 
 |image| ![BEG_ARMOR](https://github.com/auronen/Sequel-itemlist/blob/master/img/BEG_ARMOR.png?raw=true) | 

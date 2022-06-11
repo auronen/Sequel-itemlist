@@ -11,7 +11,7 @@ Insert code|**ITAR_SCROLLHEAL_COPY**
 Name|Léčení
 Léčení za manu|10
 Požadovaná mana:|10
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|50
 
 |image| ![ITARSCROLLTELEPORT4](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITARSCROLLTELEPORT4.png?raw=true) | 
@@ -75,7 +75,7 @@ Cena:|900
 Insert code|**ITAR_SCROLLPYROKINESIS**
 Name|Pyrokineze
 Poškození za s.|20
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|70
 
 |image| ![ITAR_RUNEPYROKINESIS](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNEPYROKINESIS.png?raw=true) | 
@@ -84,7 +84,7 @@ Insert code|**ITAR_RUNEPYROKINESIS**
 Name|Pyrokineze
 Kruh:|3
 Poškození za s.|20
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|700
 
 |image| ![ITAR_SCROLLSLEEP](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLSLEEP.png?raw=true) | 
@@ -123,7 +123,7 @@ Insert code|**ITAR_SCROLLTELEKINESIS**
 Name|Telekineze
 Mana za sek.|1
 Požadovaná mana:|10
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|70
 
 |image| ![ITAR_RUNETELEKINESIS](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNETELEKINESIS.png?raw=true) | 
@@ -132,7 +132,7 @@ Insert code|**ITAR_RUNETELEKINESIS**
 Name|Telekineze
 Kruh:|3
 Mana za sek.|1
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|700
 
 |image| ![ITAR_SCROLLSTORMFIST](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLSTORMFIST.png?raw=true) | 
@@ -141,7 +141,7 @@ Insert code|**ITAR_SCROLLSTORMFIST**
 Name|Větrná pěst
 Stojí magické energie (max.):|8
 Poškození bouří (za manu)|15
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|90
 
 |image| ![ITAR_RUNESTORMFIST](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNESTORMFIST.png?raw=true) | 
@@ -151,7 +151,7 @@ Name|Větrná pěst
 Kruh:|4
 Stojí magické energie (max.):|8
 Poškození bouří (za manu)|15
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|900
 
 |image| ![ITAR_SCROLLWINDFIST](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLWINDFIST.png?raw=true) | 
@@ -160,7 +160,7 @@ Insert code|**ITAR_SCROLLWINDFIST**
 Name|Větrná pěst
 Stojí magické energie (max.):|3
 Poškození bouří (za manu)|10
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|50
 
 |image| ![ITAR_RUNEWINDFIST](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNEWINDFIST.png?raw=true) | 
@@ -170,14 +170,14 @@ Name|Větrná pěst
 Kruh:|2
 Stojí magické energie (max.):|3
 Poškození bouří (za manu)|10
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|500
 
 |image| ![ITAR_SCROLLDESTROYUNDEAD](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLDESTROYUNDEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SCROLLDESTROYUNDEAD**
 Name|Smrt nemrtvému
-Kruh:|0
+Kruh:|
 Stojí magické energie:|5
 Poškození magií|9999
 Cena:|110
@@ -259,7 +259,7 @@ Insert code|**ITAR_SCROLLTHUNDERBALL**
 Name|Kulový blesk
 Stojí magické energie (max.):|5
 Poškození magií (za manu)|20
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|90
 
 |image| ![ITAR_RUNETHUNDERBALL](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNETHUNDERBALL.png?raw=true) | 
@@ -269,7 +269,7 @@ Name|Kulový blesk
 Kruh:|3
 Stojí magické energie (max.):|5
 Poškození magií (za manu)|20
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|900
 
 |image| ![ITAR_SCROLLTHUNDERBOLT](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTHUNDERBOLT.png?raw=true) | 
@@ -294,7 +294,7 @@ Cena:|500
 Insert code|**ITAR_SCROLLCHAINLIGHTNING**
 Name|Blesk
 Poškození za s.|25
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|70
 
 |image| ![ITAR_RUNECHAINLIGHTNING](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNECHAINLIGHTNING.png?raw=true) | 
@@ -303,7 +303,7 @@ Insert code|**ITAR_RUNECHAINLIGHTNING**
 Name|Blesk
 Kruh:|4
 Poškození za s.|25
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|700
 
 |image| ![ITAR_SCROLLTRFWOLF](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTRFWOLF.png?raw=true) | 
@@ -389,7 +389,7 @@ Insert code|**ITAR_SCROLLHEAL**
 Name|Léčení
 Léčení za manu|10
 Požadovaná mana:|10
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|50
 
 |image| ![ITAR_RUNEHEAL](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNEHEAL.png?raw=true) | 
@@ -398,7 +398,7 @@ Insert code|**ITAR_RUNEHEAL**
 Name|Léčení
 Kruh:|2
 Léčení za manu|10
-Jednorázové kouzlo|0
+Jednorázové kouzlo|
 Cena:|500
 
 |image| ![ITAR_SCROLLTELEPORT5](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTELEPORT5.png?raw=true) | 
@@ -411,7 +411,7 @@ Stojí magické energie:|5
 |-|-|
 Insert code|**ITAR_RUNETELEPORT5**
 Name|Teleport do Starého tábora
-Kruh:|0
+Kruh:|
 Stojí magické energie:|5
 
 |image| ![ITAR_SCROLLTELEPORT3](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTELEPORT3.png?raw=true) | 
@@ -424,10 +424,10 @@ Stojí magické energie:|5
 |-|-|
 Insert code|**ITAR_RUNETELEPORT3**
 Name|Teleport k nekromancerovi
-Kruh:|0
+Kruh:|
 Stojí magické energie:|5
-Tato runa teleportuje mága přímo|0
-do věže nekromancera Xardase.|0
+Tato runa teleportuje mága přímo|
+do věže nekromancera Xardase.|
 
 |image| ![ITAR_SCROLLTELEPORT2](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTELEPORT2.png?raw=true) | 
 |-|-|
@@ -439,22 +439,22 @@ Stojí magické energie:|5
 |-|-|
 Insert code|**ITAR_RUNETELEPORT2**
 Name|Teleport k mágům Vody
-Kruh:|0
+Kruh:|
 Stojí magické energie:|5
 
 |image| ![ITAR_SCROLLTELEPORT1](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTELEPORT1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SCROLLTELEPORT1**
 Name|Podivný teleport
-Stojí magické energie:|0
-Toto teleportační kouzlo je jiné než ta ostatní.|0
-Vypadá to, že vyžaduje něco víc než jen manu!|0
+Stojí magické energie:|
+Toto teleportační kouzlo je jiné než ta ostatní.|
+Vypadá to, že vyžaduje něco víc než jen manu!|
 
 |image| ![ITAR_RUNETELEPORT1](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNETELEPORT1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_RUNETELEPORT1**
 Name|Podivný teleport
-Kruh:|0
+Kruh:|
 Stojí magické energie:|5
 
 |image| ![ITAR_SCROLLFIRERAIN](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLFIRERAIN.png?raw=true) | 
@@ -480,7 +480,7 @@ Insert code|**ITAR_SCROLLFIRESTORM**
 Name|Ohnivá bouře
 Stojí magické energie (max.):|10
 Poškození ohněm (za manu)|50
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|110
 
 |image| ![ITAR_RUNEFIRESTORM](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNEFIRESTORM.png?raw=true) | 
@@ -490,7 +490,7 @@ Name|Ohnivá bouře
 Kruh:|4
 Stojí magické energie (max.):|10
 Poškození ohněm (za manu)|50
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|1100
 
 |image| ![ITAR_SCROLLFIREBALL](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLFIREBALL.png?raw=true) | 
@@ -499,7 +499,7 @@ Insert code|**ITAR_SCROLLFIREBALL**
 Name|Ohnivá koule
 Stojí magické energie (max.):|5
 Poškození ohněm (za manu)|30
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|70
 
 |image| ![ITAR_RUNEFIREBALL](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNEFIREBALL.png?raw=true) | 
@@ -509,7 +509,7 @@ Name|Ohnivá koule
 Kruh:|3
 Stojí magické energie (max.):|5
 Poškození ohněm (za manu)|30
-Nabíjecí kouzlo|0
+Nabíjecí kouzlo|
 Cena:|700
 
 |image| ![ITAR_SCROLLFIREBOLT](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLFIREBOLT.png?raw=true) | 
@@ -548,35 +548,35 @@ Cena:|300
 |-|-|
 Insert code|**ITAT_ICEGOLEMPIECE**
 Name|Kus ledového golema
-Toto je kousek|0
-poraženého ledového golema.|0
+Toto je kousek|
+poraženého ledového golema.|
 Cena:|50
 
 |image| ![ITAT_ICEGOLEMHEART](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAT_ICEGOLEMHEART.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_ICEGOLEMHEART**
 Name|Srdce ledového golema
-Toto je srdce vyjmuté ze zbytků|0
-poraženého ledového golema.|0
-Má moc zmrazit nepřítele.|0
+Toto je srdce vyjmuté ze zbytků|
+poraženého ledového golema.|
+Má moc zmrazit nepřítele.|
 Cena:|400
 
 |image| ![ITAT_FIREGOLEMHEART](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAT_FIREGOLEMHEART.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_FIREGOLEMHEART**
 Name|Srdce ohnivého golema
-Toto je srdce vyjmuté ze zbytků|0
-poraženého ohnivého golema.|0
-Má moc zapálit nepřítele.|0
+Toto je srdce vyjmuté ze zbytků|
+poraženého ohnivého golema.|
+Má moc zapálit nepřítele.|
 Cena:|400
 
 |image| ![ITAT_STONEGOLEMHEART](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAT_STONEGOLEMHEART.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_STONEGOLEMHEART**
 Name|Srdce kamenného golema
-Toto je srdce vyjmuté ze zbytků|0
-poraženého kamenného golema.|0
-Má moc odmrštit nepřátele|0
-do vzduchu.|0
+Toto je srdce vyjmuté ze zbytků|
+poraženého kamenného golema.|
+Má moc odmrštit nepřátele|
+do vzduchu.|
 Cena:|400
 

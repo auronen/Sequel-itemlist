@@ -2,48 +2,48 @@
 |-|-|
 Insert code|**ITFO_PLACEBO**
 Name|Čistý lektvar
-Tahle tekutina je tak čistá a jasná,|0
-že by jeden mohl uvěřit, |0
-že má všelijaké možné schopnosti.|0
+Tahle tekutina je tak čistá a jasná,|
+že by jeden mohl uvěřit, |
+že má všelijaké možné schopnosti.|
 
 |image| ![ITMI_STINKINGSALT](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMI_STINKINGSALT.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_STINKINGSALT**
 Name|Smrdutá sůl
-Neuvěřitelně páchnoucí|0
-hnědá sůl|0
+Neuvěřitelně páchnoucí|
+hnědá sůl|
 Cena:|50
 
 |image| ![ITKE_JAIL](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITKE_JAIL.png?raw=true) | 
 |-|-|
 Insert code|**ITKE_JAIL**
 Name|Klíč od vězení
-Klíč k vězeňským celám|0
-Cena:|0
+Klíč k vězeňským celám|
+Cena:|
 
 |image| ![ITKE_HALVOR](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITKE_HALVOR.png?raw=true) | 
 |-|-|
 Insert code|**ITKE_HALVOR**
 Name|Halvorův klíč
-Tento klíč otevírá truhlu|0
-s přísadami v Halvorově kuchyni|0
-Cena:|0
+Tento klíč otevírá truhlu|
+s přísadami v Halvorově kuchyni|
+Cena:|
 
 |image| ![ITKE_BARTOK](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITKE_BARTOK.png?raw=true) | 
 |-|-|
 Insert code|**ITKE_BARTOK**
 Name|Bartokův klíč
-Tento klíč otevírá velkou truhlici|0
-v hradní kovárně Starého tábora.|0
-Cena:|0
+Tento klíč otevírá velkou truhlici|
+v hradní kovárně Starého tábora.|
+Cena:|
 
 |image| ![ITKE_EDO](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITKE_EDO.png?raw=true) | 
 |-|-|
 Insert code|**ITKE_EDO**
 Name|Edův klíč
-Tento klíč otevírá|0
-truhlu v Edově chatrči.|0
-Cena:|0
+Tento klíč otevírá|
+truhlu v Edově chatrči.|
+Cena:|
 
 |image| ![ITMI_MISS_CANDEL_01](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMI_MISS_CANDEL_01.png?raw=true) | 
 |-|-|
@@ -55,7 +55,7 @@ Cena:|20
 |-|-|
 Insert code|**ITKE_SMITH_01**
 Name|Klíč od skladu v kovárně
-Cena:|0
+Cena:|
 
 |image| ![ITMI_COIN](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMI_COIN.png?raw=true) | 
 |-|-|
@@ -78,7 +78,7 @@ Cena:|3
 |-|-|
 Insert code|**ITMI_SAW**
 Name|Pila
-Cena:|0
+Cena:|
 
 |image| ![ITMI_ALARMHORN](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMI_ALARMHORN.png?raw=true) | 
 |-|-|
@@ -100,7 +100,7 @@ Name|Hořící pochodeň
 |-|-|
 Insert code|**ITLSTORCH**
 Name|Pochodeň
-Prosvítí i ta nejtemnější zákoutí!|0
+Prosvítí i ta nejtemnější zákoutí!|
 Cena:|2
 
 |image| ![ITMIJOINT_3](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMIJOINT_3.png?raw=true) | 
@@ -215,19 +215,19 @@ Cena:|1
 |-|-|
 Insert code|**ITMI_BOWWOOD**
 Name|Dřevo na luk
-Cena:|0
+Cena:|
 
 |image| ![ITMI_FLETCHERKNIFE](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMI_FLETCHERKNIFE.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_FLETCHERKNIFE**
 Name|Řezbářský nůž
-Cena:|0
+Cena:|
 
 |image| ![ITMI_FLETCHERWOOD](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITMI_FLETCHERWOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_FLETCHERWOOD**
 Name|Dřevo na šípy
-Cena:|0
+Cena:|
 
 |image| ![ITAR_DARKRUNEBLANK](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_DARKRUNEBLANK.png?raw=true) | 
 |-|-|
@@ -485,16 +485,16 @@ Cena:|1
 |-|-|
 Insert code|**ITMI_SALT**
 Name|Sůl
-Nesmí chybět v žádném pokrmu!|0
+Nesmí chybět v žádném pokrmu!|
 Cena:|5
 
 |image| ![ITAT_DEMONSTING](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAT_DEMONSTING.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_DEMONSTING**
 Name|Démonický trn
-Tyto ostny, ostré jako břitva,|0
-jsou k nalezení na všech|0
-posedlých zvířatech.|0
+Tyto ostny, ostré jako břitva,|
+jsou k nalezení na všech|
+posedlých zvířatech.|
 Cena:|25
 
 |image| ![ITAT_BLOODFLYSTING](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAT_BLOODFLYSTING.png?raw=true) | 
