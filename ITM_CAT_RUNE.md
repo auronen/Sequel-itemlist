@@ -417,13 +417,13 @@ Stojí magické energie:|5
 |image| ![ITAR_SCROLLTELEPORT3](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_SCROLLTELEPORT3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SCROLLTELEPORT3**
-Name|Teleport k nekromancerovi
+Name|Teleport k nekromantoovi
 Stojí magické energie:|5
 
 |image| ![ITAR_RUNETELEPORT3](https://github.com/auronen/Sequel-itemlist/blob/master/img/ITAR_RUNETELEPORT3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_RUNETELEPORT3**
-Name|Teleport k nekromancerovi
+Name|Teleport k nekromantovi
 Kruh:|
 Stojí magické energie:|5
 Tato runa teleportuje mága přímo|
